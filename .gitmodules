@@ -1,0 +1,6 @@
+[submodule "prabin_blogs_frontend"]
+	path = prabin_blogs_frontend
+	url = https://github.com/prabinlamsal19/prabin_blogs_frontend
+[submodule "prabin_blogs_backend"]
+	path = prabin_blogs_backend
+	url = https://github.com/prabinlamsal19/prabin_blogs_backend.git
